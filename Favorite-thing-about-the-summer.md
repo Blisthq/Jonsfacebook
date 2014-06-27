@@ -1,0 +1,3 @@
+**Jon Morgan shared Dan Morgan's status.**
+**11 hours ago**
+Today we walked from the funeral home in Brighton to a local place to eat and the 16ish waitress comes to our table and says before I bring you anything I want all of you to tell me your favorite thing about summer!? Well just coming from the funeral home and planning a funeral we were all perplexed to say the least but all seven of us answered something and all I could think is how innocent 16 was and when I was that age summer was cool. I am just jealous of the innocence I guess. Life is rainbows and unicorns right!?
