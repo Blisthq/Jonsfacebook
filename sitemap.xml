@@ -2,23 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-      <loc>http://32bpwr3.github.io/starter-book/</loc>
+      <loc>http://32bpwr3.github.io/Jon-s-Facebook-Profile_book/</loc>
       <priority>0.5</priority>
     </url>
     <url>
-      <loc>http://32bpwr3.github.io/starter-book/2-second-page.html</loc>
+      <loc>http://32bpwr3.github.io/Jon-s-Facebook-Profile_book/June272014/unicorn.html</loc>
       <priority>0.5</priority>
     </url>
     <url>
-      <loc>http://32bpwr3.github.io/starter-book/1-first-page.html</loc>
+      <loc>http://32bpwr3.github.io/Jon-s-Facebook-Profile_book/2-second-page.html</loc>
       <priority>0.5</priority>
     </url>
     <url>
-      <loc>http://32bpwr3.github.io/starter-book/404.html</loc>
+      <loc>http://32bpwr3.github.io/Jon-s-Facebook-Profile_book/1-first-page.html</loc>
       <priority>0.5</priority>
     </url>
     <url>
-      <loc>http://32bpwr3.github.io/starter-book/README.html</loc>
+      <loc>http://32bpwr3.github.io/Jon-s-Facebook-Profile_book/404.html</loc>
+      <priority>0.5</priority>
+    </url>
+    <url>
+      <loc>http://32bpwr3.github.io/Jon-s-Facebook-Profile_book/README.html</loc>
       <priority>0.5</priority>
     </url>
 </urlset>
